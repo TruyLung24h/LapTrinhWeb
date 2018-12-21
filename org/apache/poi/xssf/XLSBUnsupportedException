@@ -1,0 +1,7 @@
+Êþº¾   2  
+     serialVersionUID J 
+ConstantValuelï¬ð{	§ MESSAGE Ljava/lang/String; <init> ()V Code LineNumberTable LocalVariableTable this .Lorg/apache/poi/xssf/XLSBUnsupportedException; 
+SourceFile XLSBUnsupportedException.java (.XLSB Binary Workbooks are not supported   ,org/apache/poi/xssf/XLSBUnsupportedException -org/apache/poi/UnsupportedFileFormatException (Ljava/lang/String;)V !                
+           
+     5     *· ±       
+                        
